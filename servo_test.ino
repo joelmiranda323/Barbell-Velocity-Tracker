@@ -1,12 +1,12 @@
 #include <ESP32Servo.h>
+// 180 degree positional Servo Motors 
 
 Servo servo1;  // create Servo object to control a servo
-// twelve Servo objects can be created on most boards
 
 int pos = 0;    // variable to store the servo position
 
 void setup() {
-  servo1.attach(1);  // attaches the servo on pin 9 to the Servo object
+  servo1.attach(1);  // attaches the servo on pin GPIO1/A0/D0 of the XIAO ESP32-S3
   servo1.write(pos);
   delay(5000);
 
