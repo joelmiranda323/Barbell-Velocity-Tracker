@@ -8,5 +8,5 @@ A testbench example using 3 servo motors will later be developed to better under
 
 
 Useful Links:
-SparkFun lsm6dsv16x IMU breakout - https://www.sparkfun.com/sparkfun-6dof-imu-breakout-lsm6dsv16x-qwiic.html?srsltid=AU7gw4VC8qrSFRmHvV7l3Rxvnd4g0NhEervoqQswz7ra1D_DgIDKpaeS
-XIAO ESP32-S3 - https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/#for-seeed-studio-xiao-esp32s3
+- SparkFun lsm6dsv16x IMU breakout - https://www.sparkfun.com/sparkfun-6dof-imu-breakout-lsm6dsv16x-qwiic.html?srsltid=AU7gw4VC8qrSFRmHvV7l3Rxvnd4g0NhEervoqQswz7ra1D_DgIDKpaeS
+- XIAO ESP32-S3 - https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/#for-seeed-studio-xiao-esp32s3
